@@ -13,7 +13,7 @@ Below is a breakdown of state level data for medicaid and medicare reimbursement
 
 ## Interprofessional Consultation
 
-| CPT codes | NJ Medicaid | Medi-Cal | Alabama | Texas - (Child) | Texas- (Adults) | Ohio   | Colorado | Medicare Average |
+| CPT codes | NJ Medicaid | Medi-Cal | Alabama | Texas (Child) | Texas (Adults) | Ohio   | Colorado | Medicare Average |
 | --------- | ----------- | -------- | ------- | --------------------------- | ----------------------- | ------ | -------- | ---------------- |
 | 99446     | $40.14      | $16.15   | $16.52  | $18.52                      | $17.64                  | $18.15 | $19.46   | $21.48           |
 | 99447     | $81.84      | $31.98   | $32.18  | $36.78                      | $35.03                  | $36.02 | $38.54   | $42.61           |
@@ -37,6 +37,8 @@ Below is a breakdown of state level data for medicaid and medicare reimbursement
 | CPT codes | NJ Medicaid    | Medi-Cal       | Alabama         | Texas (Child) | Texas (Adult) | Ohio   | Colorado | Medicare Average |
 | --------- | -------------- | -------------- | --------------- | ------------- | ------------- | ------ | -------- | ---------------- |
 | 96372     | $8.00 – $10.00 | $11.85- $13.50 | $11.00 - $18.46 | $11.23        | $11.79        | $17.14 | $16.59   | $12 - $18        |
+
+---
 ### Important notes about data
 
 - New Jersey Medicaid Reimbursement is based on MAP Rates
