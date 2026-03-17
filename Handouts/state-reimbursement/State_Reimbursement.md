@@ -1,6 +1,6 @@
 # Reimbursement Rates for Select Addiction Related Procedures 
 
-Below is a breakdown of state level data for Medicaid and Medicare reimbursements for ‌addiction related CPT codes
+Below is a breakdown of estimated state level data for Medicaid and Medicare reimbursements for ‌addiction medicine related CPT codes
 
 ## Telemedicine
 
