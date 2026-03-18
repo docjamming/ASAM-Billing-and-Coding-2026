@@ -45,4 +45,4 @@ Below is a breakdown of estimated state level data for Medicaid and Medicare rei
 - Alabama Medicaid Reimbursement rate vary depending on Rural vs Urban locations
 - Texas Medicaid Insurance, Texas (Children) are age 0-20 and Texas (Adults) are age 21 and older
 
-####These figures are approximate based on publicly accessible schedules, programs, and reports — actual payments vary by provider type, place of service, Medicaid FFS vs MCO contract, and current state fee updates.
+#### These figures are approximate based on publicly accessible schedules, programs, and reports — actual payments vary by provider type, place of service, Medicaid FFS vs MCO contract, and current state fee updates.
