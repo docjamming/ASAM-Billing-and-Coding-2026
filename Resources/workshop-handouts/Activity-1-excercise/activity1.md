@@ -1,3 +1,5 @@
+[![Download PDF](https://img.shields.io/badge/Download-Exercise_PDF-blue?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](./activity1.pdf)
+
 **CC: Follow up - Exercise Note**
 
 **History:**
