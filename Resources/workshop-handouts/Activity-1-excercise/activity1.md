@@ -39,3 +39,7 @@ Plan:
 **Level of Service:**
 
 **Any Additional Clinical Service (CPT Codes):**
+
+---
+
+[![View Solution](https://img.shields.io/badge/View-Solution_Key-green?style=for-the-badge)](./Enhanced-document/activity1sol.md)
