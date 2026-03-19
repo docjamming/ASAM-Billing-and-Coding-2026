@@ -41,5 +41,6 @@ Plan:
 **Any Additional Clinical Service (CPT Codes):**
 
 ---
+**Ensure that you attempt the exercise first before navigating to the enhanced version**
 
 [![View Enhanced Version](https://img.shields.io/badge/View-Enhanced_Version-green?style=for-the-badge)](./Enhanced-document/activity1sol.md)
