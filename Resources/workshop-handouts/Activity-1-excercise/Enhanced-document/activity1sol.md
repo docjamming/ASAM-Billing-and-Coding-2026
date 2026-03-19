@@ -52,7 +52,6 @@
 **Billing Codes for this encounter:**
 
 - 99214 + 25 Modifier – Moderate MDM and separate billed procedure
-- 96127 – Depression Screening
 - 99406 – Smoking cessation >3 & ≤10 minutes
 - G2211 – Visit complexity add-on code
 
