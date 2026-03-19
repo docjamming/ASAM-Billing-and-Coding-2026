@@ -1,3 +1,5 @@
+[![Download PDF](https://img.shields.io/badge/Download-Solution_PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](./activity1sol.pdf)
+
 **CC: Follow up – Documentation Enhancement Recommendation**
 
 **History:**
