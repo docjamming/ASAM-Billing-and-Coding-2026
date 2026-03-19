@@ -42,4 +42,6 @@ Plan:
 
 ---
 
-[![View Solution](https://img.shields.io/badge/View-Solution_Key-green?style=for-the-badge)](./Enhanced-document/activity1sol.md)
+---
+
+[![View Enhanced Version](https://img.shields.io/badge/View-Enhanced_Version-green?style=for-the-badge)](./Enhanced-document/activity1sol.md)
