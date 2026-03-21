@@ -6,7 +6,7 @@ This workshop was crafted with a multidisciplinary team from Cooper University H
 - Darve Robinson, MD
 - Greg Langan, DHSc, LSW, MPH​
 - Heidi Smith, CPC, CRC ​
-- Jeffery Jaeger, MD
+- Jeffrey Jaeger, MD
 - Jennifer Blake, M.S.Ed., CPC, CPMA   
 - Rachel Haroz, MD​
 - Susan Holzberg, CPC
