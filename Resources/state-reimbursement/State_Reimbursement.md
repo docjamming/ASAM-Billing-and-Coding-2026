@@ -2,6 +2,8 @@
 
 Below is a breakdown of estimated state level data for Medicaid and Medicare reimbursements for ‌addiction medicine related CPT codes
 
+Reimbursement rates are presented for six states — New Jersey, California, Ohio, Texas, Alabama, and Colorado — selected to represent each major geographic region of the contiguous United States. Each state reflects a distinct reimbursement environment and addiction medicine policy landscape, providing a nationally representative comparison for practitioners across the country.​​​​​​​​​​​​​​​​
+
 ## Telemedicine
 
 | CPT codes | NJ Medicaid | Medi-Cal | Alabama | Texas (Child) | Texas (Adults) | Ohio    | Colorado | Medicare Average |
