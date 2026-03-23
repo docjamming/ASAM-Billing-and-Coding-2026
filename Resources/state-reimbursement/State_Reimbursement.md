@@ -1,8 +1,9 @@
 # Reimbursement Rates for Select Addiction Related Procedures 
 
-Below is a breakdown of estimated state level data for Medicaid and Medicare reimbursements for ‌addiction medicine related CPT codes
+## These figures are approximate based on publicly accessible schedules, programs, and reports — actual payments vary by provider type, place of service, Medicaid FFS vs MCO contract, and current state fee updates.
 
-Reimbursement rates are presented for six states — New Jersey, California, Ohio, Texas, Alabama, and Colorado — selected to represent each major geographic region of the contiguous United States. Each state reflects a distinct reimbursement environment and addiction medicine policy landscape, providing a nationally representative comparison for practitioners across the country.​​​​​​​​​​​​​​​​
+
+Medicare and Medicaid Reimbursement rates are presented for six states — New Jersey, California, Ohio, Texas, Alabama, and Colorado — selected to represent each major geographic region of the contiguous United States. Each state reflects a distinct reimbursement environment and addiction medicine policy landscape, providing a nationally representative comparison for practitioners across the country.​​​​​​​​​​​​​​​​
 
 ## Telemedicine
 
@@ -47,4 +48,3 @@ Reimbursement rates are presented for six states — New Jersey, California, Ohi
 - Alabama Medicaid Reimbursement rate vary depending on Rural vs Urban locations
 - Texas Medicaid Insurance, Texas (Children) are age 0-20 and Texas (Adults) are age 21 and older
 
-#### These figures are approximate based on publicly accessible schedules, programs, and reports — actual payments vary by provider type, place of service, Medicaid FFS vs MCO contract, and current state fee updates.
