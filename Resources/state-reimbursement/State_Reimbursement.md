@@ -44,7 +44,7 @@ Medicare and Medicaid Reimbursement rates are presented for six states — New J
 ---
 ### Important notes about data
 
-- New Jersey Medicaid Reimbursement is based on MAP Rates
+- New Jersey Medicaid Reimbursement is based on MAP Rates (MAP is the NJ program for reimbursing OBAT clinical care)
 - Alabama Medicaid Reimbursement rate vary depending on Rural vs Urban locations
 - Texas Medicaid Insurance, Texas (Children) are age 0-20 and Texas (Adults) are age 21 and older
 
