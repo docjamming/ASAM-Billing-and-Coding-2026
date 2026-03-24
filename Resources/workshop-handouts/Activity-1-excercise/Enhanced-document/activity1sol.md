@@ -7,6 +7,7 @@
 34 yo M presenting for routine follow up for Opioid use disorder, Cocaine use disorder
 
 - Some cravings continued using Fentanyl Intranasal. He is not interested in going to inpatient rehab for his ongoing use.
+- since last visit had 1 overdose, required IN naloxone x2, no EMS called
 - Smoking cigarettes, no symptoms while using them but having some cough with activity
 - Cocaine use disorder: taking topiramate, no return to use in two months. Tolerating meds well with no sedation or other side effects
 - PHQ9 obtained today \[Scanned into EHR\]: Score: 0 consistent with no depression at this time
