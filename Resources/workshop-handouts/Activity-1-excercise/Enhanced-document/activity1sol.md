@@ -54,12 +54,11 @@
 
 **Billing Codes for this encounter:**
 
-- 99214 + 25 Modifier – Moderate MDM and separate billed procedure
+- 99215 + 25 Modifier – High MDM and separate billed procedure
 - 99406 – Smoking cessation >3 & ≤10 minutes
 - G2211 – Visit complexity add-on code
 
-**Why not Level 5 (99215):**
+**Things to note about Level 5 (99215):**
 
-- Level 5 billing requires more extensive documentation and/or care coordination.
-- Time‑based billing can justify a Level 5 code if the note includes total time spent and the specific clinical activities performed.
-- Transferring to the hospital via EMS is a common scenario that supports Level 5 billing when the documentation clearly explains the reason for the transfer.
+- Meets level 5 documentation due to a) risk to life for untreated condition AND b) recommendation of inpatient addiction treatment
+- Our billing partners noted that highlighting the immediacy of the severe concern (concerning today) and expanding on why the condition is acutely severe can be helpful to include if the note undergoes auditing review
