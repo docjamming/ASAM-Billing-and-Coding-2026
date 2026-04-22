@@ -8,5 +8,5 @@ Addiction Medicine physician passionate about leveraging informatics tools and e
 *   **Email:** <robinson-darve@cooperhealth.edu>
 *   **Work Phone:** +1 (609) 472-6697
 *   **Office Location:** 101 Haddon Ave, Suite 303, Camden, NJ (Attn: Cooper Center for Healing)
-*   **LinkedIn:** [DarvÃ© A. Robinson](https://www.linkedin.com/in/darverobinson)
+*   **LinkedIn:** [Darve A. Robinson](https://www.linkedin.com/in/darverobinson)
 *   **Clinical Profile:** [Cooper Health Provider Page](https://clinicians.cooperhealth.org/provider/darve-alvin-robinson/4211526)
