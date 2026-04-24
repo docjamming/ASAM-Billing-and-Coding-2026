@@ -1,5 +1,5 @@
 # Acknowledgment 
-This workshop was crafted with a multidisciplinary team from Cooper University Hospital and RWJ Barnabas Hospital System. 
+This workshop was crafted with a multidisciplinary team from Cooper University Hospital. 
 
 ## Cohort Members
 - Barbara Wigglesworth, CPC, CPMA, CDEO, CRC, CCS, CHC​
