@@ -1,5 +1,5 @@
 # Acknowledgment 
-This workshop was crafted with a multidisciplinary team from Cooper University Hospital. 
+This workshop was crafted with a multidisciplinary clinical team.
 
 ## Cohort Members
 - Barbara Wigglesworth, CPC, CPMA, CDEO, CRC, CCS, CHC​
@@ -11,5 +11,5 @@ This workshop was crafted with a multidisciplinary team from Cooper University H
 - Rachel Haroz, MD​
 - Susan Holzberg, CPC
 
-### If you have any questions or want additional clarification, please contact Darve Robinson robinson-darve@cooperhealth.edu 
+### If you have any questions or want additional clarification, please contact Darve Robinson. 
  
