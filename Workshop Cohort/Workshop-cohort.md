@@ -11,5 +11,5 @@ This workshop was crafted with a multidisciplinary clinical team.
 - Rachel Haroz, MD​
 - Susan Holzberg, CPC
 
-### If you have any questions or want additional clarification, please contact Darve Robinson via LinkedIn. 
+### If you have any questions or want additional clarification, please contact Darve Robinson via LinkedIn: https://www.linkedin.com/in/darverobinson
  
